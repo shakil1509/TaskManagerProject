@@ -1,0 +1,14 @@
+{
+  "name": "taskmanagerapp",
+  "version": "1.0.0",
+  "description": "task manager application Project submitted by Md Shakilur Rahman Ansari learner of Cohort 5 BE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Shakilur Rahman Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
